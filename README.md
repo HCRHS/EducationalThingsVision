@@ -1,6 +1,6 @@
 ** Hello **
-Some Stuff.
-![](images/Slide1.png)
+Some Stuff.xxx
+![](images/Slide1.PNG)
 ** Slide 2 **
 more slide 2
 
